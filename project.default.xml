@@ -1,0 +1,50 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PropertiesComponent">
+        <property name="javascript.karma.karma_node_package_dir" value="" />
+        <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+        <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+        <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
+        <property name="nodejs.jest.jest_package" value="" />
+        <property name="nodejs.mocha.mocha_node_package_dir" value="" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="NodeJSConfigurationType" singleton="false" path-to-node="node" node-parameters="node" path-to-js-file="index.js" working-dir="$USER_HOME$/Desktop/Projects/node/node-proxy">
+          <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSProfilingRunConfigurationExtension">
+            <profiling log-folder="$APPLICATION_HOME_DIR$/bin/." />
+          </EXTENSION>
+          <method v="2" />
+        </configuration>
+        <configuration default="true" type="js.build_tools.grunt">
+          <node-interpreter value="project" />
+          <envs />
+          <method v="2" />
+        </configuration>
+        <configuration default="true" type="js.build_tools.gulp">
+          <node-interpreter>project</node-interpreter>
+          <node-options />
+          <gulpfile />
+          <tasks />
+          <arguments />
+          <envs />
+          <method v="2" />
+        </configuration>
+        <configuration default="true" type="js.build_tools.npm">
+          <package-json value="$USER_HOME$/Desktop/Projects/Shengya/paymentlesson-front/package.json" />
+          <command value="run" />
+          <scripts>
+            <script value="serve" />
+          </scripts>
+          <node-interpreter value="project" />
+          <package-manager value="npm" />
+          <envs />
+          <method v="2" />
+        </configuration>
+      </component>
+      <component name="YarnPnpManager">
+        <pnp-files />
+      </component>
+    </defaultProject>
+  </component>
+</application>

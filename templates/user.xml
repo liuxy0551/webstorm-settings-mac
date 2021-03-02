@@ -1,0 +1,14 @@
+<templateSet group="user">
+  <template name="ale" value="alert($PARAM$);" description="alert" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="try" value="try {&#10;  const result = await api.searchTags(req.query)&#10;  res.json(result.data)$1$&#10;} catch (err) {&#10;  res.status(err.response.data.status).send(err.response.data)&#10;}" description="try catch" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

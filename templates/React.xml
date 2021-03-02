@@ -1,0 +1,8 @@
+<templateSet group="React">
+  <template name="pro" value="return new Promise((resolve, reject) =&gt; {&#10;  $1$&#10;})" description="promise" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
