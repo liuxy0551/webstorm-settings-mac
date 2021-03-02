@@ -1,30 +1,31 @@
 <application>
-  <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.dist;.git;.hg;.idea;.nuxt;.svn;.vscode;CVS;__pycache__;_site;_svn;vssver.scc;vssver2.scc;" />
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.dist;.git;.hg;.idea;.nuxt;.svn;.vscode;CVS;__pycache__;_site;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="wxss" type="CSS" />
-      <mapping ext="axml" type="HTML" />
       <mapping ext="jsp" type="HTML" />
+      <mapping ext="axml" type="HTML" />
       <mapping ext="wxml" type="HTML" />
+      <removed_mapping ext="jsp" approved="true" type="JSP" />
       <mapping pattern="changeTitle" type="JavaScript" />
       <mapping ext="wxs" type="JavaScript" />
-      <mapping pattern="client.js" type="PLAIN_TEXT" />
+      <mapping pattern="CNAME" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="upload" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern=".env.production" type="PLAIN_TEXT" />
-      <mapping pattern="corpIds" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".env.staging" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="{" type="PLAIN_TEXT" />
-      <mapping pattern=".env.development" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="CNAME" type="PLAIN_TEXT" />
-      <mapping ext="xmind" type="PLAIN_TEXT" />
+      <mapping pattern="corpIds" type="PLAIN_TEXT" />
+      <mapping pattern="client.js" type="PLAIN_TEXT" />
       <mapping ext="swig" type="PLAIN_TEXT" />
+      <mapping ext="xmind" type="PLAIN_TEXT" />
       <mapping ext="acss" type="Sass" />
       <mapping ext="wpy" type="Vue.js" />
-      <removed_mapping ext="jsp" approved="true" type="JSP" />
       <removed_mapping ext="wpy" approved="true" type="JSON" />
+      <removed_mapping ext="jsp" approved="true" type="JSP" />
     </extensionMap>
   </component>
 </application>
