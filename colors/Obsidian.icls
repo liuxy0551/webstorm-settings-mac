@@ -500,6 +500,11 @@
         <option name="FOREGROUND" value="287bde" />
       </value>
     </option>
+    <option name="LIVE_TEMPLATE_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="cb0303" />
+      </value>
+    </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="93c763" />
