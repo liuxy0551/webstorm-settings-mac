@@ -1,0 +1,8 @@
+<templateSet group="HTML/XML">
+  <template name="c" value="class=&quot;$1$&quot;" description="class" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

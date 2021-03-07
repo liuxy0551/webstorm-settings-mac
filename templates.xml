@@ -23,58 +23,6 @@
           <option name="key" value="bdbrrs" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="JavaScript" />
-          <option name="key" value="iter" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="JavaScript" />
-          <option name="key" value="itin" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="JavaScript" />
-          <option name="key" value="itar" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="JavaScript" />
-          <option name="key" value="ritar" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="JavaScript" />
-          <option name="key" value="importitems" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="JavaScript" />
-          <option name="key" value="importns" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="JavaScript" />
-          <option name="key" value="importdefault" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="JavaScript" />
-          <option name="key" value="exportall" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="JavaScript" />
-          <option name="key" value="exportfrom" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="JavaScript" />
-          <option name="key" value="exportitems" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="JavaScript" />
-          <option name="key" value="us" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="JavaScript" />
-          <option name="key" value="defn" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="JavaScript" />
-          <option name="key" value="flow" />
-        </TemplateKey>
-        <TemplateKey>
           <option name="groupName" value="Shell Script Hidden" />
           <option name="key" value="shell_if" />
         </TemplateKey>
@@ -189,6 +137,58 @@
         <TemplateKey>
           <option name="groupName" value="Shell Script Hidden" />
           <option name="key" value="shell_command exists" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript" />
+          <option name="key" value="iter" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript" />
+          <option name="key" value="itin" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript" />
+          <option name="key" value="itar" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript" />
+          <option name="key" value="ritar" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript" />
+          <option name="key" value="importitems" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript" />
+          <option name="key" value="importns" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript" />
+          <option name="key" value="importdefault" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript" />
+          <option name="key" value="exportall" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript" />
+          <option name="key" value="exportfrom" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript" />
+          <option name="key" value="exportitems" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript" />
+          <option name="key" value="us" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript" />
+          <option name="key" value="defn" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript" />
+          <option name="key" value="flow" />
         </TemplateKey>
       </list>
     </option>
