@@ -1,0 +1,14 @@
+<templateSet group="user">
+  <template name="ale" value="alert($PARAM$);" description="alert" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="try" value="try {&#10;  $1$        &#10;} catch (err) {&#10;  console.log(err)&#10;}" description="try catch" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

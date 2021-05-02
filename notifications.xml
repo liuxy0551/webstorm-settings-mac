@@ -1,0 +1,8 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="External Executable Critical Failures" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="IDE and Plugin Updates" displayType="NONE" shouldLog="false" />
+    <notification groupId="PhoneGap notification" displayType="NONE" shouldLog="false" />
+    <notification groupId="Vcs Important Messages" displayType="NONE" shouldLog="false" />
+  </component>
+</application>

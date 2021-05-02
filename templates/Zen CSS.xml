@@ -1,0 +1,44 @@
+<templateSet group="Zen CSS">
+  <template name="d" value="display: $VAR0$;" description="display: ...;" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;block&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="db" value="display: block;" description="display: block;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="df" value="display: flex;" description="display: flex;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="di" value="display: inline;" description="display: inline;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="dib" value="display: inline-block;" description="display: inline-block;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="bor" value="border: 1px $COLOR$ solid;" description="border: 1px red solid;" toReformat="false" toShortenFQNames="true">
+    <variable name="COLOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="f" value="flex: $END$;" description="flex: ...;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="fs" value="font-size: $VAR0$;" description="font-size: ...;" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;italic&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="cp" value="cursor: pointer;" description="cursor: pointer;" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>
